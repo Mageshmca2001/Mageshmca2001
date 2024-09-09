@@ -29,4 +29,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mageshmca2001&" alt="mageshmca2001" /></p>
 
-![Leetcode Stats](https://leetcode.com/u/Magesh_Balaji/)
+[LeetCode Stats](https://leetcard.jacoblin.cool/Magesh_Balaji?theme=light&font=Poppins)
