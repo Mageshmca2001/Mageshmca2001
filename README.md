@@ -28,3 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mageshmca2001&show_icons=true&locale=en" alt="mageshmca2001" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mageshmca2001&" alt="mageshmca2001" /></p>
+
+![](https://leetcard.jacoblin.cool/Magesh_Balaji?ext=heatmap)
