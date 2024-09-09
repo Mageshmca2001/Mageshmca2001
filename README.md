@@ -13,6 +13,14 @@
 
 - 📫 How to reach me **MageshMca2001@gmail.com**
 
+
+# 💫 About Me:
+Fresher Full Stack JavaScript developer | React.js | Node.js
+I'm Full-Stack Developer with 1+ years experience in Sofware Development. (Back-End & Front-End ) ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 
+Hi, I congratulate you on finally finding the right person to realize your dream. I've done many projects and love to see a small idea grow into a large-scale business. I have a commercial background as a professional full-stack developer who is thoroughly familiar with React Next.js Node.js Proficient in Redux, and TypeScript, I specialize in diverse UI development using Bootstrap/Material-UI, Restful API, GraphQL, and 3D visualization. I have extensive experience integrating third-party APIs like Stripe, Twilio, and Google Maps. 
+ My expertise extends to backend development, where I utilize the Mongoose ODM library for MongoDB and work with SQL, including writing aggregate functions. I am skilled in Node.js, and Express, incorporating libraries such as JWT, Mongoose, cors, etc. 
+Industries Experience: Healthcare. E-commerce Logistics and Saas AI platform. 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/magesh-b-805328313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="magesh-b-805328313" height="30" width="40" /></a>
